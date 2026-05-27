@@ -1,0 +1,17 @@
+feature=workclass, value=Private, precision=1.000, recall=0.667, fbeta=0.800
+feature=workclass, value=State-gov, precision=0.000, recall=0.000, fbeta=0.000
+feature=education, value=Bachelors, precision=1.000, recall=1.000, fbeta=1.000
+feature=education, value=Masters, precision=1.000, recall=0.500, fbeta=0.667
+feature=education, value=Some-college, precision=0.000, recall=0.000, fbeta=0.000
+feature=marital-status, value=Married-civ-spouse, precision=1.000, recall=1.000, fbeta=1.000
+feature=marital-status, value=Never-married, precision=0.000, recall=0.000, fbeta=0.000
+feature=occupation, value=Adm-clerical, precision=0.000, recall=0.000, fbeta=0.000
+feature=occupation, value=Exec-managerial, precision=1.000, recall=1.000, fbeta=1.000
+feature=occupation, value=Prof-specialty, precision=1.000, recall=0.500, fbeta=0.667
+feature=occupation, value=Sales, precision=0.000, recall=0.000, fbeta=0.000
+feature=relationship, value=Husband, precision=1.000, recall=1.000, fbeta=1.000
+feature=relationship, value=Not-in-family, precision=0.000, recall=0.000, fbeta=0.000
+feature=race, value=White, precision=1.000, recall=0.667, fbeta=0.800
+feature=sex, value=Female, precision=0.000, recall=0.000, fbeta=0.000
+feature=sex, value=Male, precision=1.000, recall=1.000, fbeta=1.000
+feature=native-country, value=United-States, precision=1.000, recall=0.667, fbeta=0.800
